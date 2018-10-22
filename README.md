@@ -61,6 +61,7 @@ our team decided to design a project which helps users to break the communicatio
 
 [7. Recommendations For Future Work](https://github.com/deco3500-2018/Team-Mars/wiki/4.Second-Interactive-Prototype#7-recommendations-for-future-work)
 
-## Instructions For How To Deploy And Use prototype
+## Instructions For How To Deploy And Use Prototype
 
+1. Find our unity prototype (final_prototype.zip) in our GitHub and Download it. You can find our prototype by [click here](https://github.com/deco3500-2018/Team-Mars/blob/master/final_prototype.zip).
 
