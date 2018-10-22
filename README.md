@@ -8,13 +8,20 @@ our team decided to design a project which helps users to break the communicatio
 ##Hyperlinked Overview For The Project
 
 [1.Original Concept Proposal](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal)
+
+1.1 Introduction
+
+1.2 Domain And Problem Space
+
 [2.Background Resarch](https://github.com/deco3500-2018/Team-Mars/wiki/2.Background-Resarch)
+
 [3.First Interactive Prototype](https://github.com/deco3500-2018/Team-Mars/wiki/3.First-Interactive-Prototype)
-[https://github.com/deco3500-2018/Team-Mars/wiki/4.Second-Interactive-Prototype](https://github.com/deco3500-2018/Team-Mars/wiki/4.Second-Interactive-Prototype)
+
+[4.Second Interactive Prototype](https://github.com/deco3500-2018/Team-Mars/wiki/4.Second-Interactive-Prototype)
 
 ##structure of your documentation
 
 
-##This should also include instructions for how to deploy and use your prototype
+##Instructions For How To Deploy And Use prototype
 
 
