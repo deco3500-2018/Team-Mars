@@ -9,6 +9,8 @@ our team decided to design a project which helps users to break the communicatio
 
 ### [1.Original Concept Proposal](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal)
 
+[1. Project Description](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal#1-project-description)
+
 1.1 Introduction
 
 1.2 Domain And Problem Space
@@ -17,7 +19,25 @@ our team decided to design a project which helps users to break the communicatio
 
 1.4 Social mobile theory and the project
 
+[2. Work Plan](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal#2--work-plan)
+
+[3.Team](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal#3team)
+
+[4. SCORE Analysisn](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal#4-score-analysisn)
+
+
+
 ### [2.Background Resarch](https://github.com/deco3500-2018/Team-Mars/wiki/2.Background-Resarch)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
 
 ### [3.First Interactive Prototype](https://github.com/deco3500-2018/Team-Mars/wiki/3.First-Interactive-Prototype)
 
