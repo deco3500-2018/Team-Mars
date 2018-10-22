@@ -11,13 +11,13 @@ our team decided to design a project which helps users to break the communicatio
 
 [1. Project Description](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal#1-project-description)
 
-1.1 Introduction
+  1.1 Introduction
 
-1.2 Domain And Problem Space
+  1.2 Domain And Problem Space
 
-1.3 Design Opportunity / Concept
+  1.3 Design Opportunity / Concept
 
-1.4 Social mobile theory and the project
+  1.4 Social mobile theory and the project
 
 [2. Work Plan](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal#2--work-plan)
 
