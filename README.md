@@ -67,3 +67,12 @@ our team decided to design a project which helps users to break the communicatio
 
 2. Once you download the zip file, unzip it in your computer. The file shold look like this: ![](https://github.com/deco3500-2018/Team-Mars/blob/master/appendix/%E6%8D%95%E8%8E%B7.PNG)
 
+3. Click on final, a XFTest Configuration will jump out after you click on it. You can adjust the Graphics and Input setting based on your perferance. 
+
+4. Once You complete the setting, you can click on Play! button to run the program.
+
+5. While the program is running, it should shold look like this: ![](https://github.com/deco3500-2018/Team-Mars/blob/master/appendix/inerface.PNG)
+
+6. You can click on different button on it to play with differnt functionality we build in the program.
+
+
