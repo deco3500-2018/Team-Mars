@@ -71,7 +71,9 @@ our team decided to design a project which helps users to break the communicatio
 
 4. Once You complete the setting, you can click on Play! button to run the program.
 
-5. While the program is running, it should shold look like this: ![](https://github.com/deco3500-2018/Team-Mars/blob/master/appendix/interface.PNG)
+5. While the program is running, it should shold look like this:
+
+![](https://github.com/deco3500-2018/Team-Mars/blob/master/appendix/interface.PNG)
 
 6. Now You can click on different button on it to play with differnt functionality we build in the program.
 
