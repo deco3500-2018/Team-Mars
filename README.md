@@ -11,14 +11,6 @@ our team decided to design a project which helps users to break the communicatio
 
 [1. Project Description](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal#1-project-description)
 
-  1.1 Introduction
-
-  1.2 Domain And Problem Space
-
-  1.3 Design Opportunity / Concept
-
-  1.4 Social mobile theory and the project
-
 [2. Work Plan](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal#2--work-plan)
 
 [3.Team](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal#3team)
@@ -31,72 +23,44 @@ our team decided to design a project which helps users to break the communicatio
 
 [1. Project Concept Statement](https://github.com/deco3500-2018/Team-Mars/wiki/2.Background-Resarch#1-project-concept-statement)
 
-1.1 Target Audience
-
 [2. Process Description](https://github.com/deco3500-2018/Team-Mars/wiki/2.Background-Resarch#2-process-description)
-
-2.1 Problem Domain Defining
-
-2.2 Research and Information Collection
-
-2.3 Analysis
-
-2.4 Prototype and System Development
-
-2.5 Feedback Outcome Evaluation
-
-2.6 Reflection and Improvemen
 
 [3. Research](https://github.com/deco3500-2018/Team-Mars/wiki/2.Background-Resarch#3-research)
 
-3.1 Academic studies
-
-3.2 Observations
-
-3.3 Interviews
-
-3.4 Surveys
-
-3.5 Cultural Probe
-
 [4. Analysis](https://github.com/deco3500-2018/Team-Mars/wiki/2.Background-Resarch#4-analysis)
-
-4.1 Affinity Diagram
-
-4.2 Users’ Requirement
 
 [5. Design](https://github.com/deco3500-2018/Team-Mars/wiki/2.Background-Resarch#4-analysis)
 
-5.1 System Requirement
-
-5.2 Storyboard
-
-5.3 Workflow
-
 ### [3.First Interactive Prototype](https://github.com/deco3500-2018/Team-Mars/wiki/3.First-Interactive-Prototype)
 
-[]()
+[1. The Purpose](https://github.com/deco3500-2018/Team-Mars/wiki/3.First-Interactive-Prototype#1-the-purpose)
 
-[]()
+[2. The Form](https://github.com/deco3500-2018/Team-Mars/wiki/3.First-Interactive-Prototype#2-the-form)
 
-[]()
+[3. The Process](https://github.com/deco3500-2018/Team-Mars/wiki/3.First-Interactive-Prototype#3-the-process)
 
-[]()
+[4. The Testing Approach](https://github.com/deco3500-2018/Team-Mars/wiki/3.First-Interactive-Prototype#4-the-testing-approach)
 
-[]()
+[5. Evaluation Outcome and Reflection](https://github.com/deco3500-2018/Team-Mars/wiki/3.First-Interactive-Prototype#5-evaluation-outcome-and-reflection)
+
+[6. Improvements](https://github.com/deco3500-2018/Team-Mars/wiki/3.First-Interactive-Prototype#6-improvements)
 
 ### [4.Second Interactive Prototype](https://github.com/deco3500-2018/Team-Mars/wiki/4.Second-Interactive-Prototype)
 
-[]()
+[1. The Purpose](https://github.com/deco3500-2018/Team-Mars/wiki/4.Second-Interactive-Prototype#1-the-purpose)
 
-[]()
+[2. The Form](https://github.com/deco3500-2018/Team-Mars/wiki/4.Second-Interactive-Prototype#2-the-form)
 
-[]()
+[3. Updated Functionalities](https://github.com/deco3500-2018/Team-Mars/wiki/4.Second-Interactive-Prototype#3-updated-functionalities)
 
-[]()
+[4. The Process](https://github.com/deco3500-2018/Team-Mars/wiki/4.Second-Interactive-Prototype#4-the-process)
 
-[]()
+[5. The Testing Approach](https://github.com/deco3500-2018/Team-Mars/wiki/4.Second-Interactive-Prototype#5-the-testing-approach)
 
-# #Instructions For How To Deploy And Use prototype
+[6. Evaluation Outcome and Reflection](https://github.com/deco3500-2018/Team-Mars/wiki/4.Second-Interactive-Prototype#6-evaluation-outcome-and-reflection)
+
+[7. Recommendations For Future Work](https://github.com/deco3500-2018/Team-Mars/wiki/4.Second-Interactive-Prototype#7-recommendations-for-future-work)
+
+## Instructions For How To Deploy And Use prototype
 
 
