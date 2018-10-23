@@ -73,9 +73,7 @@ Our team decided to design a project which helps users to break the communicatio
 
 5. Once You complete the setting, you can click on Play! button to run the program.
 
-6. While the program is running, it should shold look like this:
-
-![](https://github.com/deco3500-2018/Team-Mars/blob/master/appendix/interface.PNG)
+6. While the program is running, it should shold look like this: ![](https://github.com/deco3500-2018/Team-Mars/blob/master/appendix/interface.PNG)
 
 7. Since the Vocabulary List function needs to work with a database, you will need to download the supported database file, php files and implement them in your local server to get this function to work. The supported files can be found in here: https://github.com/deco3500-2018/Team-Mars/tree/master/Database
 
