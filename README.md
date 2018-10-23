@@ -65,7 +65,7 @@ Our team decided to design a project which helps users to break the communicatio
 
 1. Find our unity prototype (final_prototype.zip) in our GitHub and Download it. You can find our prototype by [click here](https://github.com/deco3500-2018/Team-Mars/blob/master/EXE.zip).
 
-2. Once you download the zip file, unzip it in your computer. The file shold look like this: ![](https://github.com/deco3500-2018/Team-Mars/blob/master/appendix/%E6%8D%95%E8%8E%B7.PNG)
+2. Once you download the zip file, unzip it in your computer. The file shold look like this: ![](https://github.com/deco3500-2018/Team-Mars/blob/master/appendix/capture.PNG)
 
 3. Click on final, a XFTest Configuration will jump out after you click on it. You can adjust the Graphics and Input setting based on your perferance. 
 
