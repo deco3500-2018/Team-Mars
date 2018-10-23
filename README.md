@@ -9,7 +9,7 @@ Our team decided to design a project which helps users to break the communicatio
 
 ### [1.Original Concept Proposal](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal)
 
-[1. Project Description](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal#1-project-description)
+> [1. Project Description](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal#1-project-description)
 
 [2. Work Plan](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal#2--work-plan)
 
