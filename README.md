@@ -63,18 +63,23 @@ Our team decided to design a project which helps users to break the communicatio
 
 ## Instructions For How To Deploy And Use Prototype
 
-1. Find our unity prototype (final_prototype.zip) in our GitHub and Download it. You can find our prototype by [click here](https://github.com/deco3500-2018/Team-Mars/blob/master/EXE.zip).
+1. The best way to test the prototype must be running it on Unity Engine since the exported application may include some bugs.
 
-2. Once you download the zip file, unzip it in your computer. The file shold look like this: ![](https://github.com/deco3500-2018/Team-Mars/blob/master/appendix/capture.png)
+2. Another easier way to run it is to find our unity prototype (EXE.zip) in our GitHub and Download it. You can find our prototype by [click here](https://github.com/deco3500-2018/Team-Mars/blob/master/EXE.zip).
 
-3. Click on final, a XFTest Configuration will jump out after you click on it. You can adjust the Graphics and Input setting based on your perferance. 
+3. Once you download the zip file, unzip it in your computer. The file shold look like this: ![](https://github.com/deco3500-2018/Team-Mars/blob/master/appendix/capture.png)
 
-4. Once You complete the setting, you can click on Play! button to run the program.
+4. Open the Transify.exe file, a XFTest Configuration will jump out after you click on it. You can adjust the Graphics and Input setting based on your perferance. 
 
-5. While the program is running, it should shold look like this:
+5. Once You complete the setting, you can click on Play! button to run the program.
+
+6. While the program is running, it should shold look like this:
 
 ![](https://github.com/deco3500-2018/Team-Mars/blob/master/appendix/interface.PNG)
 
-6. Now You can click on different button on it to play with differnt functionality we build in the program.
+7. Since the Vocabulary List function needs to work with a database, you will need to download the supported database file, php files and implement them in your local server to get this function to work. The supported files can be found in here: https://github.com/deco3500-2018/Team-Mars/tree/master/Database
+
+8. Now You can click on different button on it to play with differnt functionality we build in the program.
+
 
 
