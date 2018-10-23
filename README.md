@@ -2,7 +2,7 @@
 
 ## Background 
 
-our team decided to design a project which helps users to break the communication barriers featured by language and culture difference. Language plays a significant role in communication barriers, especially for face to face communication. The lack of understanding other languages not only leads to the inconvenience for people but also might influence their study and career. Therefore, we plan to design a digital translator called Translify in order to help users understand foreign languages. 
+Our team decided to design a project which helps users to break the communication barriers featured by language and culture difference. Language plays a significant role in communication barriers, especially for face to face communication. The lack of understanding other languages not only leads to the inconvenience for people but also might influence their study and career. Therefore, we plan to design a digital translator called Translify in order to help users understand foreign languages. 
 
 
 ## Structure Of Documentationt
