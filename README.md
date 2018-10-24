@@ -2,8 +2,7 @@
 
 ## Background 
 
-Our team decided to design a project which helps users to break the communication barriers featured by language and culture difference. Language plays a significant role in communication barriers, especially for face to face communication. The lack of understanding other languages not only leads to the inconvenience for people but also might influence their study and career. Therefore, we plan to design a digital translator called Translify in order to help users understand foreign languages. 
-
+Our team decided to design a project which helps users to break the communication barriers featured by language and culture difference. Language plays a significant role in communication barriers, especially for face to face communication. The lack of understanding other languages not only leads to the inconvenience for people but also might influence their study and life. Therefore, we plan to design a digital translator called Translify in order to help users to study and understand foreign languages, as well as adapt in a new language environment. 
 
 ## Structure Of Documentationt
 
@@ -16,8 +15,6 @@ Our team decided to design a project which helps users to break the communicatio
 > [3.Team](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal#3team)
 
 > [4. SCORE Analysisn](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal#4-score-analysisn)
-
-
 
 ### [2.Background Resarch](https://github.com/deco3500-2018/Team-Mars/wiki/2.Background-Resarch)
 
@@ -63,7 +60,7 @@ Our team decided to design a project which helps users to break the communicatio
 
 ## Instructions For How To Deploy And Use Prototype
 
-1. The best way to test the prototype must be running it on Unity Engine since the exported application may include some bugs.
+1. The best way to test the prototype is that you must be running it on Unity Engine since the exported application may include some bugs.
 
 2. Another easier way to run it is to find our unity prototype (EXE.zip) in our GitHub and Download it. You can find our prototype by [click here](https://github.com/deco3500-2018/Team-Mars/blob/master/EXE.zip).
 
@@ -79,7 +76,6 @@ Our team decided to design a project which helps users to break the communicatio
 
 7. Since the Vocabulary List function needs to work with a database, you will need to download the supported database file, php files and implement them in your local server to get this function to work. The supported files can be found in here: https://github.com/deco3500-2018/Team-Mars/tree/master/Database
 
-8. Now You can click on different button on it to play with differnt functionality we build in the program.
-
+8. Now You can click on different buttons on it to play with differnt functions we build in the program.
 
 
