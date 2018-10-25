@@ -6,6 +6,8 @@ Our team decided to design a project which helps users to break the communicatio
 
 ## Structure Of Documentationt
 
+### [0. Overview (1000 words)](https://github.com/deco3500-2018/Team-Mars/wiki/0.-Overview-(1000-words))
+
 ### [1.Original Concept Proposal](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal)
 
 > [1. Project Description](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal#1-project-description)
@@ -57,6 +59,8 @@ Our team decided to design a project which helps users to break the communicatio
 > [6. Evaluation Outcome and Reflection](https://github.com/deco3500-2018/Team-Mars/wiki/4.Second-Interactive-Prototype#6-evaluation-outcome-and-reflection)
 
 > [7. Recommendations For Future Work](https://github.com/deco3500-2018/Team-Mars/wiki/4.Second-Interactive-Prototype#7-recommendations-for-future-work)
+
+### [6.Poster and Brochure](https://github.com/deco3500-2018/Team-Mars/wiki/6.Poster-and-Brochure)
 
 ## Instructions For How To Deploy And Use Prototype
 
