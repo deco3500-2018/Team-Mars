@@ -6,7 +6,7 @@ Our team decided to design a project which helps users to break the communicatio
 
 ## Structure Of Documentationt
 
-### [0.Overview (1000 words)](https://github.com/deco3500-2018/Team-Mars/wiki/0.-Overview-(1000-words))
+### [0.Overview (1000 words)](https://github.com/deco3500-2018/Team-Mars/wiki/0.Overview-(1000-words))
 
 ### [1.Original Concept Proposal](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal)
 
