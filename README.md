@@ -8,13 +8,13 @@ Our team decided to design a project which helps users to break the communicatio
 
 ### [0.Overview (1000 words)](https://github.com/deco3500-2018/Team-Mars/wiki/0.Overview-(1000-words))
 
-> [1.0 Introduction](https://github.com/deco3500-2018/Team-Mars/wiki/0.Overview-(1000-words)#10-introduction)
+> [1. Introduction](https://github.com/deco3500-2018/Team-Mars/wiki/0.Overview-(1000-words)#10-introduction)
 
-> [2.0 Summary Of The Project](https://github.com/deco3500-2018/Team-Mars/wiki/0.Overview-(1000-words)#20-summary-of-the-project)
+> [2. Summary Of The Project](https://github.com/deco3500-2018/Team-Mars/wiki/0.Overview-(1000-words)#20-summary-of-the-project)
 
-> [3.0 Contribution of team members](https://github.com/deco3500-2018/Team-Mars/wiki/0.Overview-(1000-words)#30-contribution-of-team-members)
+> [3. Contribution of team members](https://github.com/deco3500-2018/Team-Mars/wiki/0.Overview-(1000-words)#30-contribution-of-team-members)
 
-> [4.0 Raw data On Google Drive](https://github.com/deco3500-2018/Team-Mars/wiki/0.Overview-(1000-words)#40-raw-data-on-google-drive)
+> [4. Raw data On Google Drive](https://github.com/deco3500-2018/Team-Mars/wiki/0.Overview-(1000-words)#40-raw-data-on-google-drive)
 
 
 ### [1.Original Concept Proposal](https://github.com/deco3500-2018/Team-Mars/wiki/1.Original-Concept-Proposal)
